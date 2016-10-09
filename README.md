@@ -14,7 +14,7 @@ Note that the waveshare 3.5/4.0" lcd's overlay is almost same with [JBTek overla
 git clone https://github.com/swkim01/waveshare-dtoverlays.git
 ```
 
-3.) According to your LCD's type, copy the overlay file waveshare32b-overlay.dtb or waveshare35b-overlay.dtb to `/boot/overlays` as root
+3.) According to your LCD's type, copy the overlay file waveshare32b-overlay.dtb or waveshare35a-overlay.dtb to `/boot/overlays` as root
 
 In case of waveshare 3.2" LCD
 ```shell
